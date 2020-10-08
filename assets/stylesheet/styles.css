@@ -54,8 +54,6 @@ body{
     flex-direction: row;
     margin-top: 200px;
     width: 100%;
-    
-    
 }
 .guest{
     margin-left: 0px;
@@ -119,14 +117,4 @@ body{
     background-color: lightgray;
     border: black, solid, 1px;
     margin-bottom: 10px;
-}
-.footnote{
-    color: white;
-    background-color: dimgray;
-    padding: 20px;
-    margin: 10px;
-    width: 42%;
-    font-stretch: semi-expanded;
-    font-size: 26px;
-    background: rgba(211, 211, 211, 0.247);
 }
